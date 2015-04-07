@@ -3,7 +3,7 @@
  *Author: 4u4v
  *Date: 2012-12-26
  *Description:
- *Blog: shuimu.js.cn
+ *Blog: www.4u4v.net
  *Email: admin@4u4v.net
  *********************/
 function getAll($sql)

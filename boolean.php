@@ -4,7 +4,7 @@
  *Date: 2012-12-25
  *Description:
  *PHP函数应用编程练习
- *Blog: shuimu.js.cn
+ *Blog: www.4u4v.net
  *Email: admin@4u4v.net
  **********************/
 // == 是一个操作符，它检测两个变量是否相等，并返回一个布尔值

@@ -4,7 +4,7 @@
  *Date: 2012-12-25
  *Description:
  *PHP函数应用编程练习
- *Blog: shuimu.js.cn
+ *Blog: www.4u4v.net
  *Email: admin@4u4v.net
  **********************/
 // In PHP versions earlier than 4.1.0, $HTTP_POST_FILES should be used instead

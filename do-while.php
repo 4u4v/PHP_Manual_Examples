@@ -4,7 +4,7 @@
  *Date: 2012-12-25
  *Description:
  *PHP函数应用编程练习
- *Blog: shuimu.js.cn
+ *Blog: www.4u4v.net
  *Email: admin@4u4v.net
  **********************/
 $i = 0;
@@ -19,7 +19,7 @@ do {
  *Date: 2012-12-25
  *Description:
  *PHP函数应用编程练习
- *Blog: shuimu.js.cn
+ *Blog: www.4u4v.net
  *Email: admin@4u4v.net
  **********************/
 $i = 7;

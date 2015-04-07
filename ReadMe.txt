@@ -5,7 +5,7 @@ PHP函数应用编程练习
 跟着手册中的示例代码所做的“PHP函数应用编程练习”。
 这可以作为PHP中文手册示例函数代码库。
 联系我：admin@4u4v.net
-博客：shuimu.js.cn
+博客：www.4u4v.net
 *********************************************
 PHP function application programming practice
 Description: This is my learning to use PHP Manual
